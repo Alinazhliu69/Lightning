@@ -62,7 +62,7 @@ if (barY > 300) {
   if((key== 'f') || (key == 'F')){
   image(img, 0, 0, 400, 300);
   fill(0, 255, 0);
-  textSize(100);
+  textSize(90);
   strokeWeight(3);
   textAlign(CENTER);
   text("VICTORY", 200, 150);
